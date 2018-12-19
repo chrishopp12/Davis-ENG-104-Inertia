@@ -1,0 +1,11 @@
+Would you like to enter another cross section? Y / N
+
+Y
+Enter number of shapes
+Enter C for circle, R for Rectangle: 
+R
+Enter x-coordinate of lower-left corner: 
+Enter y-coordinate of lower-left corner: 
+Enter S for solid, H for hole: 
+Enter base width: 
+Enter height: 

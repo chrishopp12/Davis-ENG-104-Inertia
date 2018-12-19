@@ -1,0 +1,642 @@
+Enter number of cross sections: 20
+Enter number of shapes: 1
+Enter C for circle, R for Rectangle: R
+Enter x-coordinate of lower-left corner: 0
+Enter y-coordinate of lower-left corner: 0
+Enter S for solid, H for hole: S
+Enter base width: 30
+Enter height: 10
+
+Shape Ix is: 2500 cm^4
+Shape Iy is: 22500 cm^4
+
+Section Area is: 300 cm^2
+Section centroid x coordinate is: 15
+Section centroid y coordinate is: 5
+Shape 1 product of inertia is: 0 cm^4
+Section product of inertia is: 0 cm^4
+Section Ix: 2500 cm^4
+Section Iy: 22500 cm^4
+Inertia Max: 22500 cm^4
+Inertia Min: 2500 cm^4
+Max normal stress is: 20 MPa
+
+Enter number of shapes: 1
+Enter C for circle, R for Rectangle: R
+Enter x-coordinate of lower-left corner: 0
+Enter y-coordinate of lower-left corner: 0
+Enter S for solid, H for hole: S
+Enter base width: 20
+Enter height: 5
+
+Shape Ix is: 208.333 cm^4
+Shape Iy is: 3333.33 cm^4
+
+Section Area is: 100 cm^2
+Section centroid x coordinate is: 10
+Section centroid y coordinate is: 2.5
+Shape 1 product of inertia is: 0 cm^4
+Section product of inertia is: 0 cm^4
+Section Ix: 208.333 cm^4
+Section Iy: 3333.33 cm^4
+Inertia Max: 3333.33 cm^4
+Inertia Min: 208.333 cm^4
+Max normal stress is: 120 MPa
+
+Enter number of shapes: 1
+Enter C for circle, R for Rectangle: R
+Enter x-coordinate of lower-left corner: 0
+Enter y-coordinate of lower-left corner: 0
+Enter S for solid, H for hole: S
+Enter base width: 5
+Enter height: 20
+
+Shape Ix is: 3333.33 cm^4
+Shape Iy is: 208.333 cm^4
+
+Section Area is: 100 cm^2
+Section centroid x coordinate is: 2.5
+Section centroid y coordinate is: 10
+Shape 1 product of inertia is: 0 cm^4
+Section product of inertia is: 0 cm^4
+Section Ix: 3333.33 cm^4
+Section Iy: 208.333 cm^4
+Inertia Max: 3333.33 cm^4
+Inertia Min: 208.333 cm^4
+Max normal stress is: 30 MPa
+
+Enter number of shapes: 2
+Enter C for circle, R for Rectangle: R
+Enter x-coordinate of lower-left corner: 7.5
+Enter y-coordinate of lower-left corner: 0
+Enter S for solid, H for hole: S
+Enter base width: 5
+Enter height: 15
+
+Shape Ix is: 1406.25 cm^4
+Shape Iy is: 156.25 cm^4
+
+Enter C for circle, R for Rectangle: R
+Enter x-coordinate of lower-left corner: 0
+Enter y-coordinate of lower-left corner: 15
+Enter S for solid, H for hole: S
+Enter base width: 20
+Enter height: 5
+
+Shape Ix is: 208.333 cm^4
+Shape Iy is: 3333.33 cm^4
+
+Section Area is: 175 cm^2
+Section centroid x coordinate is: 10
+Section centroid y coordinate is: 13.2143
+Shape 1 product of inertia is: 0 cm^4
+Shape 2 product of inertia is: 0 cm^4
+Section product of inertia is: 0 cm^4
+Section Ix: 5900.3 cm^4
+Section Iy: 3489.58 cm^4
+Inertia Max: 5900.3 cm^4
+Inertia Min: 3489.58 cm^4
+Max normal stress is: 22.396 MPa
+
+Enter number of shapes: 2
+Enter C for circle, R for Rectangle: R
+Enter x-coordinate of lower-left corner: 12.5
+Enter y-coordinate of lower-left corner: 0
+Enter S for solid, H for hole: S
+Enter base width: 5
+Enter height: 10
+
+Shape Ix is: 416.667 cm^4
+Shape Iy is: 104.167 cm^4
+
+Enter C for circle, R for Rectangle: R
+Enter x-coordinate of lower-left corner: 0
+Enter y-coordinate of lower-left corner: 10
+Enter S for solid, H for hole: S
+Enter base width: 30
+Enter height: 10
+
+Shape Ix is: 2500 cm^4
+Shape Iy is: 22500 cm^4
+
+Section Area is: 350 cm^2
+Section centroid x coordinate is: 15
+Section centroid y coordinate is: 13.5714
+Shape 1 product of inertia is: 0 cm^4
+Shape 2 product of inertia is: 0 cm^4
+Section product of inertia is: 0 cm^4
+Section Ix: 7202.38 cm^4
+Section Iy: 22604.2 cm^4
+Inertia Max: 22604.2 cm^4
+Inertia Min: 7202.38 cm^4
+Max normal stress is: 18.843 MPa
+
+Enter number of shapes: 2
+Enter C for circle, R for Rectangle: R
+Enter x-coordinate of lower-left corner: 15
+Enter y-coordinate of lower-left corner: 0
+Enter S for solid, H for hole: S
+Enter base width: 5
+Enter height: 15
+
+Shape Ix is: 1406.25 cm^4
+Shape Iy is: 156.25 cm^4
+
+Enter C for circle, R for Rectangle: R
+Enter x-coordinate of lower-left corner: 0
+Enter y-coordinate of lower-left corner: 15
+Enter S for solid, H for hole: S
+Enter base width: 20
+Enter height: 5
+
+Shape Ix is: 208.333 cm^4
+Shape Iy is: 3333.33 cm^4
+
+Section Area is: 175 cm^2
+Section centroid x coordinate is: 13.2143
+Section centroid y coordinate is: 13.2143
+Shape 1 product of inertia is: -1836.73 cm^4
+Shape 2 product of inertia is: -1377.55 cm^4
+Section product of inertia is: -3214.29 cm^4
+Section Ix: 5900.3 cm^4
+Section Iy: 5900.3 cm^4
+Inertia Max: 9114.58 cm^4
+Inertia Min: 2686.01 cm^4
+Max normal stress is: 22.396 MPa
+
+Enter number of shapes: 3
+Enter C for circle, R for Rectangle: R
+Enter x-coordinate of lower-left corner: 10
+Enter y-coordinate of lower-left corner: 0
+Enter S for solid, H for hole: S
+Enter base width: 10
+Enter height: 20
+
+Shape Ix is: 6666.67 cm^4
+Shape Iy is: 1666.67 cm^4
+
+Enter C for circle, R for Rectangle:  C
+Enter x-coordinate of center: 15
+Enter y-coordinate of center: 5
+Enter S for solid, H for hole: H
+Enter radius: 2.5
+Shape Ix is: -30.6796 cm^4
+Shape Iy is: -30.6796 cm^4
+
+Enter C for circle, R for Rectangle: R
+Enter x-coordinate of lower-left corner: 0
+Enter y-coordinate of lower-left corner: 20
+Enter S for solid, H for hole: S
+Enter base width: 30
+Enter height: 10
+
+Shape Ix is: 2500 cm^4
+Shape Iy is: 22500 cm^4
+
+Section Area is: 480.365 cm^2
+Section centroid x coordinate is: 15
+Section centroid y coordinate is: 19.5723
+Shape 1 product of inertia is: 0 cm^4
+Shape 2 product of inertia is: 0 cm^4
+Shape 3 product of inertia is: 0 cm^4
+Section product of inertia is: 0 cm^4
+Section Ix: 32130.2 cm^4
+Section Iy: 24136 cm^4
+Inertia Max: 32130.2 cm^4
+Inertia Min: 24136 cm^4
+Max normal stress is: 6.09154 MPa
+
+Enter number of shapes: 3
+Enter C for circle, R for Rectangle: R
+Enter x-coordinate of lower-left corner: 0
+Enter y-coordinate of lower-left corner: 0
+Enter S for solid, H for hole: S
+Enter base width: 10
+Enter height: 30
+
+Shape Ix is: 22500 cm^4
+Shape Iy is: 2500 cm^4
+
+Enter C for circle, R for Rectangle:  C
+Enter x-coordinate of center: 5
+Enter y-coordinate of center: 5
+Enter S for solid, H for hole: H
+Enter radius: 2.5
+Shape Ix is: -30.6796 cm^4
+Shape Iy is: -30.6796 cm^4
+
+Enter C for circle, R for Rectangle: R
+Enter x-coordinate of lower-left corner: 10
+Enter y-coordinate of lower-left corner: 20
+Enter S for solid, H for hole: S
+Enter base width: 20
+Enter height: 10
+
+Shape Ix is: 1666.67 cm^4
+Shape Iy is: 6666.67 cm^4
+
+Section Area is: 480.365 cm^2
+Section centroid x coordinate is: 11.2453
+Section centroid y coordinate is: 19.5723
+Shape 1 product of inertia is: 8566.46 cm^4
+Shape 2 product of inertia is: -1786.93 cm^4
+Shape 3 product of inertia is: 9503.72 cm^4
+Section product of inertia is: 16283.2 cm^4
+Section Ix: 32130.2 cm^4
+Section Iy: 35400.2 cm^4
+Inertia Max: 50130.4 cm^4
+Inertia Min: 17400.1 cm^4
+Max normal stress is: 6.09154 MPa
+
+Enter number of shapes: 4
+Enter C for circle, R for Rectangle: R
+Enter x-coordinate of lower-left corner: 0
+Enter y-coordinate of lower-left corner: 0
+Enter S for solid, H for hole: S
+Enter base width: 10
+Enter height: 30
+
+Shape Ix is: 22500 cm^4
+Shape Iy is: 2500 cm^4
+
+Enter C for circle, R for Rectangle:  C
+Enter x-coordinate of center: 5
+Enter y-coordinate of center: 5
+Enter S for solid, H for hole: H
+Enter radius: 2.5
+Shape Ix is: -30.6796 cm^4
+Shape Iy is: -30.6796 cm^4
+
+Enter C for circle, R for Rectangle: R
+Enter x-coordinate of lower-left corner: 10
+Enter y-coordinate of lower-left corner: 20
+Enter S for solid, H for hole: S
+Enter base width: 20
+Enter height: 10
+
+Shape Ix is: 1666.67 cm^4
+Shape Iy is: 6666.67 cm^4
+
+Enter C for circle, R for Rectangle:  C
+Enter x-coordinate of center: 25
+Enter y-coordinate of center: 25
+Enter S for solid, H for hole: H
+Enter radius: 2.5
+Shape Ix is: -30.6796 cm^4
+Shape Iy is: -30.6796 cm^4
+
+Section Area is: 460.73 cm^2
+Section centroid x coordinate is: 10.6591
+Section centroid y coordinate is: 19.3409
+Shape 1 product of inertia is: 7369.69 cm^4
+Shape 2 product of inertia is: -1593.5 cm^4
+Shape 3 product of inertia is: 10572.2 cm^4
+Shape 4 product of inertia is: -1593.5 cm^4
+Section product of inertia is: 14754.9 cm^4
+Section Ix: 31496.4 cm^4
+Section Iy: 31496.4 cm^4
+Inertia Max: 46251.3 cm^4
+Inertia Min: 16741.6 cm^4
+Max normal stress is: 6.14067 MPa
+
+Enter number of shapes: 3
+Enter C for circle, R for Rectangle: R
+Enter x-coordinate of lower-left corner: 0
+Enter y-coordinate of lower-left corner: 0
+Enter S for solid, H for hole: S
+Enter base width: 5
+Enter height: 15
+
+Shape Ix is: 1406.25 cm^4
+Shape Iy is: 156.25 cm^4
+
+Enter C for circle, R for Rectangle: R
+Enter x-coordinate of lower-left corner: 0
+Enter y-coordinate of lower-left corner: 15
+Enter S for solid, H for hole: S
+Enter base width: 20
+Enter height: 5
+
+Shape Ix is: 208.333 cm^4
+Shape Iy is: 3333.33 cm^4
+
+Enter C for circle, R for Rectangle: R
+Enter x-coordinate of lower-left corner: 15
+Enter y-coordinate of lower-left corner: 0
+Enter S for solid, H for hole: S
+Enter base width: 5
+Enter height: 15
+
+Shape Ix is: 1406.25 cm^4
+Shape Iy is: 156.25 cm^4
+
+Section Area is: 250 cm^2
+Section centroid x coordinate is: 10
+Section centroid y coordinate is: 11.5
+Shape 1 product of inertia is: 2250 cm^4
+Shape 2 product of inertia is: 0 cm^4
+Shape 3 product of inertia is: -2250 cm^4
+Section product of inertia is: 0 cm^4
+Section Ix: 9020.83 cm^4
+Section Iy: 12083.3 cm^4
+Inertia Max: 12083.3 cm^4
+Inertia Min: 9020.83 cm^4
+Max normal stress is: 12.7483 MPa
+
+Enter number of shapes: 3
+Enter C for circle, R for Rectangle: R
+Enter x-coordinate of lower-left corner: 0
+Enter y-coordinate of lower-left corner: 0
+Enter S for solid, H for hole: S
+Enter base width: 20
+Enter height: 5
+
+Shape Ix is: 208.333 cm^4
+Shape Iy is: 3333.33 cm^4
+
+Enter C for circle, R for Rectangle: R
+Enter x-coordinate of lower-left corner: 0
+Enter y-coordinate of lower-left corner: 5
+Enter S for solid, H for hole: S
+Enter base width: 5
+Enter height: 10
+
+Shape Ix is: 416.667 cm^4
+Shape Iy is: 104.167 cm^4
+
+Enter C for circle, R for Rectangle: R
+Enter x-coordinate of lower-left corner: 0
+Enter y-coordinate of lower-left corner: 15
+Enter S for solid, H for hole: S
+Enter base width: 20
+Enter height: 5
+
+Shape Ix is: 208.333 cm^4
+Shape Iy is: 3333.33 cm^4
+
+Section Area is: 250 cm^2
+Section centroid x coordinate is: 8.5
+Section centroid y coordinate is: 10
+Shape 1 product of inertia is: -1125 cm^4
+Shape 2 product of inertia is: 0 cm^4
+Shape 3 product of inertia is: 1125 cm^4
+Section product of inertia is: 0 cm^4
+Section Ix: 12083.3 cm^4
+Section Iy: 9020.83 cm^4
+Inertia Max: 12083.3 cm^4
+Inertia Min: 9020.83 cm^4
+Max normal stress is: 8.27586 MPa
+
+Enter number of shapes: 3
+Enter C for circle, R for Rectangle: R
+Enter x-coordinate of lower-left corner: 0
+Enter y-coordinate of lower-left corner: 0
+Enter S for solid, H for hole: S
+Enter base width: 5
+Enter height: 30
+
+Shape Ix is: 11250 cm^4
+Shape Iy is: 312.5 cm^4
+
+Enter C for circle, R for Rectangle: R
+Enter x-coordinate of lower-left corner: 5
+Enter y-coordinate of lower-left corner: 0
+Enter S for solid, H for hole: S
+Enter base width: 10
+Enter height: 30
+
+Shape Ix is: 22500 cm^4
+Shape Iy is: 2500 cm^4
+
+Enter C for circle, R for Rectangle: R
+Enter x-coordinate of lower-left corner: 15
+Enter y-coordinate of lower-left corner: 0
+Enter S for solid, H for hole: S
+Enter base width: 5
+Enter height: 30
+
+Shape Ix is: 11250 cm^4
+Shape Iy is: 312.5 cm^4
+
+Section Area is: 600 cm^2
+Section centroid x coordinate is: 10
+Section centroid y coordinate is: 15
+Shape 1 product of inertia is: 0 cm^4
+Shape 2 product of inertia is: 0 cm^4
+Shape 3 product of inertia is: 0 cm^4
+Section product of inertia is: 0 cm^4
+Section Ix: 45000 cm^4
+Section Iy: 20000 cm^4
+Inertia Max: 45000 cm^4
+Inertia Min: 20000 cm^4
+Max normal stress is: 3.33333 MPa
+
+Enter number of shapes: 1
+Enter C for circle, R for Rectangle: R
+Enter x-coordinate of lower-left corner: 0
+Enter y-coordinate of lower-left corner: 0
+Enter S for solid, H for hole: S
+Enter base width: 20
+Enter height: 30
+
+Shape Ix is: 45000 cm^4
+Shape Iy is: 20000 cm^4
+
+Section Area is: 600 cm^2
+Section centroid x coordinate is: 10
+Section centroid y coordinate is: 15
+Shape 1 product of inertia is: 0 cm^4
+Section product of inertia is: 0 cm^4
+Section Ix: 45000 cm^4
+Section Iy: 20000 cm^4
+Inertia Max: 45000 cm^4
+Inertia Min: 20000 cm^4
+Max normal stress is: 3.33333 MPa
+
+Enter number of shapes: 2
+Enter C for circle, R for Rectangle: R
+Enter x-coordinate of lower-left corner: 25
+Enter y-coordinate of lower-left corner: 0
+Enter S for solid, H for hole: S
+Enter base width: 5
+Enter height: 20
+
+Shape Ix is: 3333.33 cm^4
+Shape Iy is: 208.333 cm^4
+
+Enter C for circle, R for Rectangle: R
+Enter x-coordinate of lower-left corner: 0
+Enter y-coordinate of lower-left corner: 20
+Enter S for solid, H for hole: S
+Enter base width: 30
+Enter height: 10
+
+Shape Ix is: 2500 cm^4
+Shape Iy is: 22500 cm^4
+
+Section Area is: 400 cm^2
+Section centroid x coordinate is: 18.125
+Section centroid y coordinate is: 21.25
+Shape 1 product of inertia is: -10546.9 cm^4
+Shape 2 product of inertia is: -3515.63 cm^4
+Section product of inertia is: -14062.5 cm^4
+Section Ix: 22708.3 cm^4
+Section Iy: 34427.1 cm^4
+Inertia Max: 43802.1 cm^4
+Inertia Min: 13333.3 cm^4
+Max normal stress is: 9.3578 MPa
+
+Enter number of shapes: 3
+Enter C for circle, R for Rectangle: R
+Enter x-coordinate of lower-left corner: 0
+Enter y-coordinate of lower-left corner: 0
+Enter S for solid, H for hole: S
+Enter base width: 20
+Enter height: 5
+
+Shape Ix is: 208.333 cm^4
+Shape Iy is: 3333.33 cm^4
+
+Enter C for circle, R for Rectangle: R
+Enter x-coordinate of lower-left corner: 7.5
+Enter y-coordinate of lower-left corner: 5
+Enter S for solid, H for hole: S
+Enter base width: 5
+Enter height: 20
+
+Shape Ix is: 3333.33 cm^4
+Shape Iy is: 208.333 cm^4
+
+Enter C for circle, R for Rectangle: R
+Enter x-coordinate of lower-left corner: 0
+Enter y-coordinate of lower-left corner: 25
+Enter S for solid, H for hole: S
+Enter base width: 20
+Enter height: 5
+
+Shape Ix is: 208.333 cm^4
+Shape Iy is: 3333.33 cm^4
+
+Section Area is: 300 cm^2
+Section centroid x coordinate is: 10
+Section centroid y coordinate is: 15
+Shape 1 product of inertia is: 0 cm^4
+Shape 2 product of inertia is: 0 cm^4
+Shape 3 product of inertia is: 0 cm^4
+Section product of inertia is: 0 cm^4
+Section Ix: 35000 cm^4
+Section Iy: 6875 cm^4
+Inertia Max: 35000 cm^4
+Inertia Min: 6875 cm^4
+Max normal stress is: 4.28571 MPa
+
+Enter number of shapes: 4
+Enter C for circle, R for Rectangle: R
+Enter x-coordinate of lower-left corner: 0
+Enter y-coordinate of lower-left corner: 0
+Enter S for solid, H for hole: S
+Enter base width: 20
+Enter height: 5
+
+Shape Ix is: 208.333 cm^4
+Shape Iy is: 3333.33 cm^4
+
+Enter C for circle, R for Rectangle: R
+Enter x-coordinate of lower-left corner: 0
+Enter y-coordinate of lower-left corner: 5
+Enter S for solid, H for hole: S
+Enter base width: 20
+Enter height: 5
+
+Shape Ix is: 208.333 cm^4
+Shape Iy is: 3333.33 cm^4
+
+Enter C for circle, R for Rectangle: R
+Enter x-coordinate of lower-left corner: 0
+Enter y-coordinate of lower-left corner: 10
+Enter S for solid, H for hole: S
+Enter base width: 20
+Enter height: 5
+
+Shape Ix is: 208.333 cm^4
+Shape Iy is: 3333.33 cm^4
+
+Enter C for circle, R for Rectangle: R
+Enter x-coordinate of lower-left corner: 0
+Enter y-coordinate of lower-left corner: 15
+Enter S for solid, H for hole: S
+Enter base width: 20
+Enter height: 5
+
+Shape Ix is: 208.333 cm^4
+Shape Iy is: 3333.33 cm^4
+
+Section Area is: 400 cm^2
+Section centroid x coordinate is: 10
+Section centroid y coordinate is: 10
+Shape 1 product of inertia is: 0 cm^4
+Shape 2 product of inertia is: 0 cm^4
+Shape 3 product of inertia is: 0 cm^4
+Shape 4 product of inertia is: 0 cm^4
+Section product of inertia is: 0 cm^4
+Section Ix: 13333.3 cm^4
+Section Iy: 13333.3 cm^4
+Inertia Max: 13333.3 cm^4
+Inertia Min: 13333.3 cm^4
+Max normal stress is: 7.5 MPa
+
+Enter number of shapes: 1
+Enter C for circle, R for Rectangle: R
+Enter x-coordinate of lower-left corner: 0
+Enter y-coordinate of lower-left corner: 0
+Enter S for solid, H for hole: S
+Enter base width: 20
+Enter height: 20
+
+Shape Ix is: 13333.3 cm^4
+Shape Iy is: 13333.3 cm^4
+
+Section Area is: 400 cm^2
+Section centroid x coordinate is: 10
+Section centroid y coordinate is: 10
+Shape 1 product of inertia is: 0 cm^4
+Section product of inertia is: 0 cm^4
+Section Ix: 13333.3 cm^4
+Section Iy: 13333.3 cm^4
+Inertia Max: 13333.3 cm^4
+Inertia Min: 13333.3 cm^4
+Max normal stress is: 7.5 MPa
+
+Enter number of shapes: 0
+Section Area is: 0 cm^2
+Section centroid x coordinate is: -nan(ind)
+Section centroid y coordinate is: -nan(ind)
+Section product of inertia is: 0 cm^4
+Section Ix: 0 cm^4
+Section Iy: 0 cm^4
+Inertia Max: 0 cm^4
+Inertia Min: 0 cm^4
+Max normal stress is: -nan(ind) MPa
+
+Enter number of shapes: 0
+Section Area is: 0 cm^2
+Section centroid x coordinate is: -nan(ind)
+Section centroid y coordinate is: -nan(ind)
+Section product of inertia is: 0 cm^4
+Section Ix: 0 cm^4
+Section Iy: 0 cm^4
+Inertia Max: 0 cm^4
+Inertia Min: 0 cm^4
+Max normal stress is: -nan(ind) MPa
+
+Enter number of shapes: 0
+Section Area is: 0 cm^2
+Section centroid x coordinate is: -nan(ind)
+Section centroid y coordinate is: -nan(ind)
+Section product of inertia is: 0 cm^4
+Section Ix: 0 cm^4
+Section Iy: 0 cm^4
+Inertia Max: 0 cm^4
+Inertia Min: 0 cm^4
+Max normal stress is: -nan(ind) MPa
+
